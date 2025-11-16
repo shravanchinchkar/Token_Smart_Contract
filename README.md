@@ -1,0 +1,1 @@
+## Learning how the token contract is creating and understanding the logic behind it
